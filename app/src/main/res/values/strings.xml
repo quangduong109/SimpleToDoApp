@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">SimpleToDoApp</string>
     <string name="add_item">Add Item</string>
+    <string name="message_warning">Make sure todo is not empty!</string>
+    <string name="title_main">Simple Todo</string>
+    <string name="title_edit_item">Edit Item</string>
 </resources>
