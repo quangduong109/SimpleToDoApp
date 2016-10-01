@@ -30,11 +30,12 @@ The following **additional** features are implemented:
 ## Video Walkthrough 
 
 Here's a walkthrough of implemented user stories:
-<img src='http://i.imgur.com/5LAZjuq.gifv' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://i.imgur.com/5LAZjuq.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
-Click image below to show video demo ^^:
+Click image to show video demo ^^:
+
 [![Demo Simple Todo App](http://img.youtube.com/vi/qVtK75haZQ4/0.jpg)](http://www.youtube.com/watch?v=qVtK75haZQ4 "Demo Simple Todo App")
 
 Video created by AZ Screen Recorder (https://play.google.com/store/apps/details?id=com.hecorat.screenrecorder.free&hl=vi) 
