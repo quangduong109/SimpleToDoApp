@@ -33,9 +33,9 @@ Here's a walkthrough of implemented user stories:
 
 <img src='http://i.imgur.com/5LAZjuq.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+GIF created with Video2Me (https://play.google.com/store/apps/details?id=tr.com.ea.a.a.mm).
 
-Click image to show video demo ^^:
+Click image below to show video demo ^^:
 
 [![Demo Simple Todo App](http://img.youtube.com/vi/qVtK75haZQ4/0.jpg)](http://www.youtube.com/watch?v=qVtK75haZQ4 "Demo Simple Todo App")
 
