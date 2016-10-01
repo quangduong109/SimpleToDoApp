@@ -9,9 +9,33 @@
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="com.quangduong.simpletodoapp.MainActivity">
-
-    <TextView
-        android:layout_width="wrap_content"
+    <ListView
+        android:id="@+id/lvItems"
+        android:layout_width="match_parent"
+        android:layout_height="405dp"
+        android:layout_above="@+id/layoutInput"
+        android:layout_alignParentTop="true"/>
+    <LinearLayout
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Hello World!" />
+        android:id="@+id/layoutInput"
+        android:layout_alignParentBottom="true">
+        <EditText
+            android:id="@+id/etItem"
+            android:layout_width="0dp"
+            android:layout_weight="0.7"
+            android:layout_height="wrap_content"
+            android:inputType="textPersonName"
+            android:layout_gravity="bottom"
+            tools:text="add a new item"/>
+
+        <Button
+            android:id="@+id/btnAdd"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.3"
+            android:layout_gravity="bottom"
+            android:text="@string/add_item" />
+    </LinearLayout>
+
 </RelativeLayout>
