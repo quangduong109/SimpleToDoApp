@@ -31,13 +31,9 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qVtK75haZQ4" frameborder="0" allowfullscreen></iframe>
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/qVtK75haZQ4/0.jpg)](http://www.youtube.com/watch?v=qVtK75haZQ4 "Demo Simple Todo App")
 
 Video created by AZ Screen Recorder (https://play.google.com/store/apps/details?id=com.hecorat.screenrecorder.free&hl=vi) 
-
-## Notes
-
-Describe any challenges encountered while building the app.
 
 ## License
 
