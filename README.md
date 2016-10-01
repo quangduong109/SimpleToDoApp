@@ -29,9 +29,9 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough 
 
-Here's a walkthrough of implemented user stories:
+Here's a walkthrough of implemented user stories (Click image below to show video demo ^^):
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/qVtK75haZQ4/0.jpg)](http://www.youtube.com/watch?v=qVtK75haZQ4 "Demo Simple Todo App")
+[![Demo Simple Todo App](http://img.youtube.com/vi/qVtK75haZQ4/0.jpg)](http://www.youtube.com/watch?v=qVtK75haZQ4 "Demo Simple Todo App")
 
 Video created by AZ Screen Recorder (https://play.google.com/store/apps/details?id=com.hecorat.screenrecorder.free&hl=vi) 
 
