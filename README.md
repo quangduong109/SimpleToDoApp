@@ -31,9 +31,9 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qVtK75haZQ4" frameborder="0" allowfullscreen></iframe>
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+Video created by AZ Screen Recorder (https://play.google.com/store/apps/details?id=com.hecorat.screenrecorder.free&hl=vi) 
 
 ## Notes
 
